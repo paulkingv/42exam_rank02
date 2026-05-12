@@ -1,6 +1,6 @@
 # Exam 02 - 42 scohol
 
-In this repository, I have grouped together the various exercises that may appear in exam 02 of the common core of the 42 school course. The functions are created by me, and if you are a student, I recommend reading each exercise without looking at the solution and trying it yourself. Good luck!
+This repository, originally created by alexhiguera, has grouped together the various exercises that may appear in Exam02 of the common core of the 42 school curriculum. The functions are created by alexhiguera, and this fork of the repository is now maintained by pking. If you're a 42 student, it is reccommended to attempt each exercise before looking at the solution. Good luck!
 
 |		Level 1 🎫		 |		Level 2 🎫		  |		Level 3 🎫		   |		Level 4 🎫	   |
 |------------------------|-------------------------|------------------------|------------------------|
@@ -22,17 +22,20 @@ In this repository, I have grouped together the various exercises that may appea
 |						 | ✅ reverse_bits		 |					       |					   |
 |						 | ✅ snake_to_camel	     |						   |				       |
 |						 | ✅ swap_bits			 |						   |					   |
-|						 |	 union				   |					    |					    |
-|						 |	 wdmatch 			   |					    |					    | 
+|						 |	  union				   |					    |					    |
+|						 |	  wdmatch 			   |					    |					    |
+|                        | ✅ inter               |                         |                       |
 
 ### Total
-🗂️ Total Pool of 56 Functions/Programs.
+🗂️ Total Pool of 57 Functions/Programs.
 
 # Exam Practice
 
 Practice the exam just like you would in the real exam using this:
 
-⚡︎ [Simulator](https://github.com/JCluzet/42_EXAM)
-
-⚡︎ [Grademe](https://grademe.fr)
+## Current (2026)
+⚡︎ [examshell Simulator](https://github.com/terminal-42s/42_examshell)
+## Legacy 
+⚡︎ [Simulator (Deprecated)](https://github.com/JCluzet/42_EXAM)
+⚡︎ [Grademe (Deprecated)](https://grademe.fr)
  
