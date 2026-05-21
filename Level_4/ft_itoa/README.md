@@ -13,3 +13,4 @@ Your function must be declared as follows:
 
 char	*ft_itoa(int nbr);
 ```
+// Error on last part of itoa (useless)
