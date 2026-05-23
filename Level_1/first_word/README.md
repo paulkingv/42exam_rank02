@@ -1,4 +1,4 @@
-## Subject
+## FIRST_WORD
 
 ```BASH
 Assignment name  : first_word
