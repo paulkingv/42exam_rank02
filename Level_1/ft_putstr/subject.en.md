@@ -1,4 +1,4 @@
-## Subject
+## FT_PUTSTR
 
 ```BASH
 Assignment name  : ft_putstr

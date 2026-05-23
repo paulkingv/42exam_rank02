@@ -1,4 +1,4 @@
-## Subject
+## FIZZBUZZ
 
 ```BASH
 Assignment name  : fizzbuzz

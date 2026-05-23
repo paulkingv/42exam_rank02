@@ -1,4 +1,4 @@
-## Subject
+## FIRST_WORD
 
 ```C
 Nombre de la tarea: first_word
