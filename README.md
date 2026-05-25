@@ -1,7 +1,8 @@
 # 2️⃣ Exam Rank 02 - School 42 (2026)
 
-This repository, originally created by alexhiguera, has grouped together the various exercises that may appear in Exam02 of the common core of the 42 school curriculum. The functions are created by alexhiguera, and this fork of the repository is now maintained by pking. If you're a 42 student, it is reccommended to attempt each exercise before looking at the solution. Good luck!
+This repository, originally created by alexhiguera, has grouped together the various exercises that may appear in Exam02 of the original C based common core of the 42 school curriculum. The functions are created by alexhiguera, and this fork of the repository is now maintained by pking. 
 
+RIP C CURRICULUM ;(
 |		Level 1 🎫		 |		Level 2 🎫		  |		Level 3 🎫		   |		Level 4 🎫	   |
 |------------------------|-------------------------|------------------------|------------------------|
 | ✅ first_word			| ✅ alpha_mirror		|	add_prime_sum		 | ✅ flood_fill			|
